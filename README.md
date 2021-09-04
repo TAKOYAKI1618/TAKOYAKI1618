@@ -1,9 +1,9 @@
 よろしく！
 nice to meet you!
-> 私わ今ｐｙｔｈoｎに勉強しています
-> I am currently trying to learn python!
-> aq tgh belajar pakai python
-> ich lerne derzeit Python
+>- 私わ今ｐｙｔｈoｎに勉強しています
+>- I am currently trying to learn python!
+>- aq tgh belajar pakai python
+>- ich lerne derzeit Python
 <!---
 Hi, I’m @TAKOYAKI1618.
 I’m interested in robotics.

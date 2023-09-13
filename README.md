@@ -2,13 +2,13 @@
 nice to meet you!
 >- 私わ今ｐｙｔｈoｎに勉強しています
 >- I am currently trying to learn python!
->- aq tgh belajar pakai python
 >- ich lerne derzeit Python
 <!---
 Hi, I’m @TAKOYAKI1618.
 I’m interested in robotics.
 I’m currently learning Python and trying to understand c a little bit.
 I’m looking to learn more as i am still a beginner.
+Please be patient with me!
 --->
 
 <!---

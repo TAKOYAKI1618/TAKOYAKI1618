@@ -1,9 +1,15 @@
+drink beer, have fun, enjoy life
+>- Can you prove the truth of those who have reached paradise?
+
+
+<!---
 よろしく！
 nice to meet you!
 >- 私わ今ｐｙｔｈoｎに勉強しています
 >- I am currently trying to learn python!
 >- ich lerne derzeit Python
-<!---
+
+
 Hi, I’m @TAKOYAKI1618.
 I’m interested in robotics.
 I’m currently learning Python and trying to understand c a little bit.

@@ -1,5 +1,5 @@
 drink beer, have fun, enjoy life
->- Can you prove the truth of those who have reached paradise?
+> Can you prove the truth of those who have reached paradise?
 
 
 <!---

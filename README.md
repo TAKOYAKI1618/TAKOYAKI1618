@@ -1,8 +1,10 @@
-drink beer, have fun, enjoy life
+
 > Can you prove the truth of those who have reached paradise?
 
 
 <!---
+drink beer, have fun, enjoy life
+
 よろしく！
 nice to meet you!
 >- 私わ今ｐｙｔｈoｎに勉強しています
